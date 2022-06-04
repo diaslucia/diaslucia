@@ -1,6 +1,8 @@
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/88150989/172024003-1182a3f0-f6d4-432b-9bcf-6e20c4b98bc5.jpg" />
-</div>
+<code>
+    <div align="center">
+        <img src="https://user-images.githubusercontent.com/88150989/172024003-1182a3f0-f6d4-432b-9bcf-6e20c4b98bc5.jpg" />
+    </div>
+</code>
 <br/>
 <div align="center">
     <a href="https://www.instagram.com/arkham17/">
@@ -14,8 +16,20 @@
     </a>
 </div>
 
-## About Myself 
-
 My name is Lucia Dias and I'm a Front-End Developer! 
 
-### Skills
+## Skills :computer:
+
+<div align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/SASS-20232A?style=for-the-badge&logo=sass&logoColor=C96598" /> 
+</div>
+
+
+## Contact Me! 
+
+- Email: 
+
