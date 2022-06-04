@@ -19,7 +19,7 @@
 
 - Email: info@luciadias.com
 - LinkedIn: [www.linkedin.com/in/lucia-dias](https://www.linkedin.com/in/lucia-dias/)
-- Personal Site: [www.luciadias.com](https://www.linkedin.com/in/lucia-dias/](https://luciadias.com/)
+- Personal Site: [www.luciadias.com](https://luciadias.com/)
 
 <br/>
 <div align="center">
