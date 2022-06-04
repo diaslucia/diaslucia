@@ -3,8 +3,6 @@
 </div>
 <br/>
 
-***I'm a front-end developer, learning UX/UI skills!***
-
 ## Skills :computer:
 
 <div align="center">
