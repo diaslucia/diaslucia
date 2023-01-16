@@ -15,6 +15,7 @@
     <img height="30px" alt="GIT Icon" src="https://img.shields.io/badge/GIT-E64626?style=for-the-badge&logo=git&logoColor=white" />
     <img height="30px" alt="Bootstrap Icon" src="https://img.shields.io/badge/Bootstrap-5A3A7B?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img height="30px" alt="Redux Icon" src="https://img.shields.io/badge/Redux-5A3A7B?style=for-the-badge&logo=redux&logoColor=white" />
+    <img height="30px" alt="Typescript" src="https://img.shields.io/badge/Typescript-E34F26?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
 ## Let's work together! :mailbox_with_mail: 
