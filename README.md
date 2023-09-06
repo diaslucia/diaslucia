@@ -10,12 +10,13 @@ I'm a React web developer with an eye for details. Every project is a chance to 
     <img height="30px" alt="JavaScript Icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img height="30px" alt="React JS Icon" src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img height="30px" alt="React Native Icon" src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+    <img height="30px" alt="SASS Icon" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
     <img height="30px" alt="GIT Icon" src="https://img.shields.io/badge/GIT-E64626?style=for-the-badge&logo=git&logoColor=white" />
     <img height="30px" alt="Bootstrap Icon" src="https://img.shields.io/badge/Bootstrap-5A3A7B?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img height="30px" alt="Redux Icon" src="https://img.shields.io/badge/Redux-5A3A7B?style=for-the-badge&logo=redux&logoColor=white" />
     <img height="30px" alt="Typescript" src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" />
-    ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+     <img height="30px" alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+     
 </div>
 
 ## Let's work together! :mailbox_with_mail: 
