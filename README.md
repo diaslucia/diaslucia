@@ -1,4 +1,5 @@
-## I'm a React web developer with an eye for details 👁️ Every project is a chance to improve, and I'm excited to keep growing while making awesome web stuff! ✨
+### I'm a React web developer with an eye for details 👁
+### Every project is a chance to improve, and I'm excited to keep growing while making awesome web stuff! ✨
 
 
 ## Skills :computer:
