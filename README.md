@@ -10,12 +10,12 @@ I'm a React web developer with an eye for details. Every project is a chance to 
     <img height="30px" alt="JavaScript Icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img height="30px" alt="React JS Icon" src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img height="30px" alt="React Native Icon" src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img height="30px" alt="SASS Icon" src="https://img.shields.io/badge/SASS-C96598?style=for-the-badge&logo=sass&logoColor=white" />
+    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
     <img height="30px" alt="GIT Icon" src="https://img.shields.io/badge/GIT-E64626?style=for-the-badge&logo=git&logoColor=white" />
     <img height="30px" alt="Bootstrap Icon" src="https://img.shields.io/badge/Bootstrap-5A3A7B?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img height="30px" alt="Redux Icon" src="https://img.shields.io/badge/Redux-5A3A7B?style=for-the-badge&logo=redux&logoColor=white" />
     <img height="30px" alt="Typescript" src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img height="30px" alt="Vue" src="https://img.shields.io/badge/Vue-3FB27F?style=for-the-badge&logo=vue&logoColor=white" />
+    ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 </div>
 
 ## Let's work together! :mailbox_with_mail: 
@@ -30,7 +30,7 @@ I'm a React web developer with an eye for details. Every project is a chance to 
         <img alt="Lucia's Instagram" width="40px" src="https://user-images.githubusercontent.com/88150989/172024888-9ca40ca1-6006-4319-b583-88f02a3b5a07.png" />
     </a>
     <a href="https://www.linkedin.com/in/lucia-dias/">
-      <img alt="Lucia's LinkedIN" width="40px" src="https://user-images.githubusercontent.com/88150989/172024894-1a8f3973-40ad-4098-8c2d-9d2fbfe7fbe0.png" />
+      <img alt="Lucia's LinkedIn" width="40px" src="https://user-images.githubusercontent.com/88150989/172024894-1a8f3973-40ad-4098-8c2d-9d2fbfe7fbe0.png" />
     </a>
     <a href="mailto:info@luciadias.com">
       <img alt="Lucia's Email" width="40px" src="https://user-images.githubusercontent.com/88150989/172024935-eabe01c2-d7f2-4e7a-add8-0e89c9f682cd.png" />
