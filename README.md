@@ -12,17 +12,13 @@ I'm a React web developer with an eye for details. Every project is a chance to 
     <img height="30px" alt="React JS Icon" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img height="30px" alt="Next JS Icon" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
     <img height="30px" alt="React Native Icon" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img height="30px" alt="SASS Icon" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+    <img height="30px" alt="SASS Icon" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
     <img height="30px" alt="GIT Icon" src="https://img.shields.io/badge/GIT-E64626?style=for-the-badge&logo=git&logoColor=white" />
-
-    <img height="30px" alt="Redux Icon" src="https://img.shields.io/badge/Redux-5A3A7B?style=for-the-badge&logo=redux&logoColor=white" />
+    <img height="30px" alt="Redux Icon" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
     <img height="30px" alt="Typescript" src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" />
      <img height="30px" alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
 <img height="30px" alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-     
-
-  <img height="30px" alt="Figma" src=" https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-    
+  <img height="30px" alt="Figma" src=" https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />  
 </div>
 
 ## Let's work together! :mailbox_with_mail: 
