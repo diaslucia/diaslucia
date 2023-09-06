@@ -1,7 +1,6 @@
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/88150989/172024003-1182a3f0-f6d4-432b-9bcf-6e20c4b98bc5.jpg" />
-</div>
-<br/>
+## Hi 👋:
+
+I'm a React web developer with an eye for details. Every project is a chance to improve, and I'm excited to keep growing while making awesome web stuff!
 
 ## Skills :computer:
 
@@ -16,6 +15,7 @@
     <img height="30px" alt="Bootstrap Icon" src="https://img.shields.io/badge/Bootstrap-5A3A7B?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img height="30px" alt="Redux Icon" src="https://img.shields.io/badge/Redux-5A3A7B?style=for-the-badge&logo=redux&logoColor=white" />
     <img height="30px" alt="Typescript" src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img height="30px" alt="Vue" src="https://img.shields.io/badge/Vue-3FB27F?style=for-the-badge&logo=vue&logoColor=white" />
 </div>
 
 ## Let's work together! :mailbox_with_mail: 
