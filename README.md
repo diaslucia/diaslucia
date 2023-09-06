@@ -1,4 +1,4 @@
-### I'm a React web developer with an eye for details 👁️ Every project is a chance to improve, and I'm excited to keep growing while making awesome web stuff! ✨
+## I'm a React web developer with an eye for details 👁️ Every project is a chance to improve, and I'm excited to keep growing while making awesome web stuff! ✨
 
 
 ## Skills :computer:
@@ -23,8 +23,6 @@
     <img height="30px" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
     <img height="30px" alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img height="30px" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
-    <br/>
-    <br/>
     <img height="30px" alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /> 
     
     
