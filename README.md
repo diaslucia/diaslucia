@@ -33,7 +33,7 @@ I'm Lucia, a React web developer with an eye for details 👁️ Every project i
 
 ## Let's work together! :mailbox_with_mail: 
 
-- Email: info@luciadias.com
+- Email: luciadias.dev@gmail.com
 - LinkedIn: [www.linkedin.com/in/lucia-dias](https://www.linkedin.com/in/lucia-dias/)
 - Personal Site: [www.luciadias.com](https://luciadias.com/)
 
